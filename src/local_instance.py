@@ -13,7 +13,7 @@ from .internal import data_dir, cache_dir
 logger = getLogger(__name__)
 
 instance = None
-port = 11435
+port = 11434
 overrides = {}
 
 def log_output(pipe):
